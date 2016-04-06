@@ -1,0 +1,13 @@
+@import 'modules/variables';
+
+body {
+    background: $black;
+    color: $white;
+}
+.content {
+    padding: 1em;
+    background: #ccc;
+}
+.content h1 {
+    font-size: 5em;
+}
